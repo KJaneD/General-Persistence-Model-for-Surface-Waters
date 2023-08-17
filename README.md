@@ -12,3 +12,8 @@ Rstan is required for fitting this model.
 Use: 
 To fit the general persistence model, open the Hierarchical_Model_Fitting_Script and run the script. Within the script, the multilevel linear regression (multilevel_dep_normal) is fit with 2 chains, 
 3000 iterations per chain, and a 1000 iteration burn-in. The script produces the results_dataframe with the parameter estimates for the multilevel linear regression.
+
+
+Additional Resources:
+Dean, K. & Mitchell, J. 2022a. Meta-analysis addressing the implications of model uncertainty in understanding the persistence of indicators and pathogens in natural surface waters. Environmental Science & Technology, 56(17). https://doi.org/10.1021/acs.est.1c07552
+Dean, K. & Mitchell, J. 2022b. Identifying Water Quality and Environmental Factors that Influence Indicator and Pathogen Decay in Natural Surface Waters. Water Research. https://doi.org/10.1016/j.watres.2022.118051
